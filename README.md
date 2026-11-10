@@ -1,1 +1,2 @@
-# IA_woman_rafael
+# mulheres_tecnologia
+Site para ser finalizado pelos estudantes. 
